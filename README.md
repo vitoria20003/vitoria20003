@@ -11,5 +11,5 @@
 ## ❤️ Tecnologias que estou aprendendo e que pretendo aprender :
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,next,typescript,sass,nodejs,python,rust,flutter,angular,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,next,typescript,sass,nodejs,python,angular,git,bootstrap,vscode,wordpress,)](https://skillicons.dev)
 
