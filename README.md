@@ -1,7 +1,6 @@
 ## Olá me chamo Vitória
 - 🌱 Estou aprendendo Front-End.
-- 🤔 Procurando pela primeira Oportunidade!
-## Estou rumo ao meu crescimento profissional. Sinta à vontade para acompanhar toda minha evolução do zero ao primeiro emprego como Desenvolvedora Front-End!
+## Desenvolvedora Front-End!
 <a href="https://heroic-jelly-1f7c0d.netlify.app/">Portifólio</a>
 ### Minhas Tecnologias
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
